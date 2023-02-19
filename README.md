@@ -9,16 +9,15 @@ Sync google photos album with local files.
 The situation: You have your photos/videos being managed by google photos, all separated by albums, very nice, very cute. But inside your phone there is just a folder called something like *Camera* and inside there are all your hundreds of thousands of files of pictures all messed-up, no albums no separation, nothing, just a big mess.
 
 - Then, how do you backup these files properly on an external device/computer, separating them by albums as folders?
-
-*Here is where this script comes in hand*
+- *Here is where this script comes in hand*
 
 - Why would I want to do that?
 
 *Moving pictures/videos out from a device can have many reasons, but my motivations to create this script was:*
-*- Too much space being used on my device*
-*- Many albums were very old, from ~5y ago, I don't want them in my phone/google photos anymore*
-*- Make sure that I don't rely only on google to hold my pictures/videos*
-*- Avoid paying additional and unnecessary space on google for photos that I don't care anymore*
+- *Too much space being used on my device*
+- *Many albums were very old, from ~5y ago, I don't want them in my phone/google photos anymore*
+- *Make sure that I don't rely only on google to hold my pictures/videos*
+- *Avoid paying additional and unnecessary space on google for photos that I don't care anymore*
 
 ## How this script works
 In a nutshell, it connects to your google account, read your albums, compare the picture/video names from google with your local file names and if it matches the picture/video names it copies the file to a folder with the name of the album.
