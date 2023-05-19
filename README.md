@@ -1,7 +1,7 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/marcelkohl/google-photos-album-sync-local)
 [![Generic badge](https://img.shields.io/badge/Status-Alpha-red.svg)](https://shields.io/)
 [![GPLv3 license](https://img.shields.io/badge/License-Apache-purple.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/marcelkohl)
 
 # Google Photos Album Sync Local
 Sync google photos album with local files.
